@@ -4,7 +4,7 @@ Xbox Wireless Controller | id=BTHLE\DEV_C0D6D5E3686A\8&10A0889C&1&C0D6D5E3686A |
 AirPods Pro de Kevin | id=BTHENUM\DEV_14147DF37855\8&36618988&1&BLUETOOTHDEVICE_14147DF37855 | connected=False | gatt=-
 iPad | id=BTHENUM\DEV_50F265DAA678\8&36618988&1&BLUETOOTHDEVICE_50F265DAA678 | connected=False | gatt=-
 iPhone K | id=BTHENUM\DEV_F45293DF90AE\8&36618988&1&BLUETOOTHDEVICE_F45293DF90AE | connected=False | gatt=-
-JBL Grip appartenant à Sourida | id=BTHENUM\DEV_7866F34CE5F7\8&36618988&1&BLUETOOTHDEVICE_7866F34CE5F7 | connected=True | gatt=-
+JBL Grip appartenant à Sourida | id=BTHENUM\DEV_7866F34CE5F7\8&36618988&1&BLUETOOTHDEVICE_7866F34CE5F7 | connected=False | gatt=-
 GHUB entries: 2
 batch ids=6 results=2 err=
 HID++ debug: 
@@ -14,6 +14,6 @@ Xbox Wireless Controller => N/A (Hors ligne)
 AirPods Pro de Kevin => N/A (Hors ligne)
 iPad => N/A (Hors ligne)
 iPhone K => N/A (Hors ligne)
-JBL Grip appartenant à Sourida => N/A (Not reported by Windows)
+JBL Grip appartenant à Sourida => N/A (Hors ligne)
 G915 X LIGHTSPEED => 80% (Logitech G HUB)
 G502 LIGHTSPEED => 100% (Logitech G HUB)

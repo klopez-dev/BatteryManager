@@ -58,7 +58,7 @@ namespace BatteryManager
 
         public MainForm()
         {
-            Text = AppName + " v1.0.1";
+            Text = AppName + " v1.0.0";
             MinimumSize = new Size(860, 620);
             Size = new Size(1080, 760);
             StartPosition = FormStartPosition.CenterScreen;
